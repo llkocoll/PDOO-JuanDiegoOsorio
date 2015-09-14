@@ -1,0 +1,6 @@
+C:\Users\MacBook\Desktop\C1\C1\bin\Debug\C1.exe.config
+C:\Users\MacBook\Desktop\C1\C1\bin\Debug\C1.exe
+C:\Users\MacBook\Desktop\C1\C1\bin\Debug\C1.pdb
+C:\Users\MacBook\Desktop\C1\C1\obj\Debug\C1.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\Desktop\C1\C1\obj\Debug\C1.exe
+C:\Users\MacBook\Desktop\C1\C1\obj\Debug\C1.pdb

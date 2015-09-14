@@ -1,0 +1,6 @@
+C:\Users\MacBook\Desktop\22\22\bin\Debug\22.exe.config
+C:\Users\MacBook\Desktop\22\22\bin\Debug\22.exe
+C:\Users\MacBook\Desktop\22\22\bin\Debug\22.pdb
+C:\Users\MacBook\Desktop\22\22\obj\Debug\22.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\Desktop\22\22\obj\Debug\22.exe
+C:\Users\MacBook\Desktop\22\22\obj\Debug\22.pdb

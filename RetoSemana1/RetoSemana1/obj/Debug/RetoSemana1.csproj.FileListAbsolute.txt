@@ -1,0 +1,6 @@
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\bin\Debug\RetoSemana1.exe.config
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\bin\Debug\RetoSemana1.exe
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\bin\Debug\RetoSemana1.pdb
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\obj\Debug\RetoSemana1.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\obj\Debug\RetoSemana1.exe
+C:\Users\MacBook\Desktop\RetoSemana1\RetoSemana1\obj\Debug\RetoSemana1.pdb

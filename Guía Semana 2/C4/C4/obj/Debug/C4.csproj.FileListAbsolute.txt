@@ -1,0 +1,6 @@
+C:\Users\MacBook\Desktop\C4\C4\bin\Debug\C4.exe.config
+C:\Users\MacBook\Desktop\C4\C4\bin\Debug\C4.exe
+C:\Users\MacBook\Desktop\C4\C4\bin\Debug\C4.pdb
+C:\Users\MacBook\Desktop\C4\C4\obj\Debug\C4.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\Desktop\C4\C4\obj\Debug\C4.exe
+C:\Users\MacBook\Desktop\C4\C4\obj\Debug\C4.pdb
