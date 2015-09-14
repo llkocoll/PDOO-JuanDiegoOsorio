@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="RetoZonas3/RetoZonas3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RetoZonas3/Program.cs">
+    <Files>
+      <File FileName="RetoZonas3/Program.cs" Line="51" Column="7" />
+      <File FileName="RetoZonas3/Zona1.cs" Line="12" Column="4" />
+      <File FileName="RetoZonas3/Zona2.cs" Line="1" Column="1" />
+      <File FileName="RetoZonas3/Zona3.cs" Line="1" Column="1" />
+      <File FileName="RetoZonas3/Zona4.cs" Line="1" Column="1" />
+      <File FileName="../../Universidad/4 Semestre/Programación orientada a objetos/Solución Parcial 2/ProgramP1.cs" Line="1" Column="1" />
+      <File FileName="../../Universidad/4 Semestre/Programación orientada a objetos/Solución Parcial 2/Enemigo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
