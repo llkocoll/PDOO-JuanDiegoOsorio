@@ -2,13 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RetoZonas/Program.cs">
     <Files>
-      <File FileName="RetoZonas/Program.cs" Line="33" Column="31" />
+      <File FileName="RetoZonas/Program.cs" Line="32" Column="9" />
       <File FileName="RetoZonas/Zona1.cs" Line="1" Column="1" />
       <File FileName="RetoZonas/Zona2.cs" Line="1" Column="1" />
       <File FileName="RetoZonas/Zona3.cs" Line="1" Column="1" />
       <File FileName="RetoZonas/Zona4.cs" Line="1" Column="1" />
-      <File FileName="../../Universidad/4 Semestre/Programación orientada a objetos/Solución Parcial 2/Enemigo.cs" Line="1" Column="1" />
-      <File FileName="../../Universidad/4 Semestre/Programación orientada a objetos/Solución Parcial 2/ProgramP1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -3,3 +3,8 @@
 /Users/personal/Desktop/RetoZonas/RetoZonas/bin/Debug/RetoZonas.exe
 /Users/personal/Desktop/RetoZonas/RetoZonas/obj/x86/Debug/RetoZonas.exe
 /Users/personal/Desktop/RetoZonas/RetoZonas/obj/x86/Debug/RetoZonas.exe.mdb
+/Users/personal/Universidad/4 Semestre/Programación orientada a objetos/Semana 9/RetoZonas/RetoZonas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Universidad/4 Semestre/Programación orientada a objetos/Semana 9/RetoZonas/RetoZonas/obj/x86/Debug/RetoZonas.exe
+/Users/personal/Universidad/4 Semestre/Programación orientada a objetos/Semana 9/RetoZonas/RetoZonas/obj/x86/Debug/RetoZonas.exe.mdb
+/Users/personal/Universidad/4 Semestre/Programación orientada a objetos/Semana 9/RetoZonas/RetoZonas/bin/Debug/RetoZonas.exe.mdb
+/Users/personal/Universidad/4 Semestre/Programación orientada a objetos/Semana 9/RetoZonas/RetoZonas/bin/Debug/RetoZonas.exe

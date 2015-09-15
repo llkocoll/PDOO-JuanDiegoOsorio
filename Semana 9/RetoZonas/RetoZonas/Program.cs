@@ -5,7 +5,7 @@ namespace RetoZonas
 	class MainClass
 	{
 		public delegate void ZonasDelegate (double x);
-		public static void Z1(double x)
+		public  void Z1(double x)
 		{
 			x=x*0.25;
 			Console.WriteLine ("El cargo del producto es {0}",x );
@@ -29,11 +29,8 @@ namespace RetoZonas
 
 		public static void Main (string[] args)
 		{
-			ZonasDelegate a, b, c, d;
-			a = new ZonasDelegate (Z1);
-			b = new ZonasDelegate (Z2);
-			c = new ZonasDelegate (Z3);
-			d = new ZonasDelegate (Z4);
+			MainClass y = new MainClass();
+			ZonasDelegate a;
 
 			string NombreZona = "", Precio1="";
 			double Precio = 0;
@@ -46,6 +43,7 @@ namespace RetoZonas
 					Precio1 = Console.ReadLine ();
 
 					if (double.TryParse (Precio1, out Precio)) {
+						a = new ZonasDelegate (y.Z1);
 						a (Precio);
 					} else {
 						Console.WriteLine ("Valor erróneo");
@@ -58,7 +56,8 @@ namespace RetoZonas
 					Precio1 = Console.ReadLine ();
 
 					if (double.TryParse (Precio1, out Precio)) {
-						b (Precio);
+						a = new ZonasDelegate (Z2);
+						a (Precio);
 					} else {
 						Console.WriteLine ("Valor erróneo");
 					}
@@ -69,7 +68,8 @@ namespace RetoZonas
 					Precio1 = Console.ReadLine ();
 
 					if (double.TryParse (Precio1, out Precio)) {
-						c (Precio);
+						a = new ZonasDelegate (Z3);
+						a (Precio);
 					} else {
 						Console.WriteLine ("Valor erróneo");
 					}
@@ -80,7 +80,8 @@ namespace RetoZonas
 					Precio1 = Console.ReadLine ();
 
 					if (double.TryParse (Precio1, out Precio)) {
-						d (Precio);
+						a = new ZonasDelegate (Z4);
+						a (Precio);
 					} else {
 						Console.WriteLine ("Valor erróneo");
 					}
