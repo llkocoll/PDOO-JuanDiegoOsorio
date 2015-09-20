@@ -1,0 +1,10 @@
+/Users/personal/Projects/Lambdas/Lambdas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Projects/Lambdas/Lambdas/bin/Debug/Lambdas.exe.mdb
+/Users/personal/Projects/Lambdas/Lambdas/bin/Debug/Lambdas.exe
+/Users/personal/Projects/Lambdas/Lambdas/obj/x86/Debug/Lambdas.exe
+/Users/personal/Projects/Lambdas/Lambdas/obj/x86/Debug/Lambdas.exe.mdb
+/Users/personal/Projects/Lambdas (Otra Forma)/Lambdas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Projects/Lambdas (Otra Forma)/Lambdas/bin/Debug/Lambdas.exe.mdb
+/Users/personal/Projects/Lambdas (Otra Forma)/Lambdas/bin/Debug/Lambdas.exe
+/Users/personal/Projects/Lambdas (Otra Forma)/Lambdas/obj/x86/Debug/Lambdas.exe
+/Users/personal/Projects/Lambdas (Otra Forma)/Lambdas/obj/x86/Debug/Lambdas.exe.mdb

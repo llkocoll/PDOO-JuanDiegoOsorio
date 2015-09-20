@@ -1,0 +1,5 @@
+/Users/personal/Desktop/Eventos/Eventos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Desktop/Eventos/Eventos/bin/Debug/Eventos.exe.mdb
+/Users/personal/Desktop/Eventos/Eventos/bin/Debug/Eventos.exe
+/Users/personal/Desktop/Eventos/Eventos/obj/x86/Debug/Eventos.exe
+/Users/personal/Desktop/Eventos/Eventos/obj/x86/Debug/Eventos.exe.mdb
