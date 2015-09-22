@@ -1,0 +1,5 @@
+/Users/personal/Desktop/Threads/Threads/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Desktop/Threads/Threads/bin/Debug/Threads.exe.mdb
+/Users/personal/Desktop/Threads/Threads/bin/Debug/Threads.exe
+/Users/personal/Desktop/Threads/Threads/obj/x86/Debug/Threads.exe
+/Users/personal/Desktop/Threads/Threads/obj/x86/Debug/Threads.exe.mdb
