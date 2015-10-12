@@ -1,0 +1,5 @@
+/Users/personal/Desktop/Guitarras/Guitarras/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/personal/Desktop/Guitarras/Guitarras/bin/Debug/Guitarras.exe.mdb
+/Users/personal/Desktop/Guitarras/Guitarras/bin/Debug/Guitarras.exe
+/Users/personal/Desktop/Guitarras/Guitarras/obj/x86/Debug/Guitarras.exe
+/Users/personal/Desktop/Guitarras/Guitarras/obj/x86/Debug/Guitarras.exe.mdb
