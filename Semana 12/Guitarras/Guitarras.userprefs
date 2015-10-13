@@ -2,7 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Guitarras/Program.cs">
     <Files>
-      <File FileName="Guitarras/Program.cs" Line="16" Column="34" />
+      <File FileName="Guitarras/Program.cs" Line="14" Column="16" />
+      <File FileName="Guitarras/Guitar.cs" Line="1" Column="1" />
+      <File FileName="Guitarras/GuitarSpec.cs" Line="1" Column="1" />
+      <File FileName="Guitarras/Inventory.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
